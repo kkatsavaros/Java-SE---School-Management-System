@@ -1,3 +1,6 @@
+Java-SE-School-Mangement-Project
+
+
 This is a Java Standard Edition School Management Programm.
 
 The user has two choices.
@@ -8,3 +11,6 @@ The second is to press two and then the user insert his own courses, assignments
 
 
 It is a very good project for a Java student to get familiar with Java Object Oriented Programmming.
+
+
+Katsavaros Konstantinos
